@@ -4,9 +4,8 @@
 
 ## Features
 - Predicts next words based on previous sentences.
-- Utilizes machine learning or NLP techniques.
 - Supports training on custom text data.
-- Simple and easy-to-use interface.
+- Simple and easy-to-use.
 
 ## Installation
 To install and run **YourNextWord**, follow these steps:
