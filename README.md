@@ -10,7 +10,7 @@
 ## Installation
 To install and run **YourNextWord**, follow these steps:
 ```sh
-git clone https://github.com/yourusername/YourNextWord.git
+git clone https://github.com/lsroshini/YourNextWord.git
 cd YourNextWord
 ```
 
