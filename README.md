@@ -12,13 +12,13 @@ To install and run **YourNextWord**, follow these steps:
 ```sh
 git clone https://github.com/yourusername/YourNextWord.git
 cd YourNextWord
-python markov_chain.py
 ```
 
 ## Usage
+Modify markov_chain.txt to modify train data
 Run the script and start typing sentences to get suggestions:
 ```sh
-python main.py
+python markov_chain.py
 ```
 Example:
 ```sh
