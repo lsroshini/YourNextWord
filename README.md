@@ -13,7 +13,7 @@ To install and run **YourNextWord**, follow these steps:
 ```sh
 git clone https://github.com/yourusername/YourNextWord.git
 cd YourNextWord
-pip install -r requirements.txt
+python markov_chain.py
 ```
 
 ## Usage
@@ -29,11 +29,3 @@ Output: ["store", "park", "gym"]
 
 ## Requirements
 - Python 3.x
-- NLTK / TensorFlow / Any NLP Library (if applicable)
-- Other dependencies (listed in `requirements.txt`)
-
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
-
-## License
-This project is licensed under the MIT License.
